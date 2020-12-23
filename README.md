@@ -1,10 +1,11 @@
 # Hangman
-A popular game which you might have played during your childhood phase.
-Also called The Guessing Game, here's a code running "Hangman" in Python with a few modifications to the game.
+A popular game which you might have played during your childhood phase. <br \>
+Also called The Guessing Game, here's a code running "Hangman" in Python with a few modifications to the game. <br \>
+<br \>
 
-Although rules and restrictions for the game are listed during execution, get a note of the rules in brief :
- => 2 players at a time.
- => Player 1 gets to choose a word.
- => Player 2 gets to guess the word chosen by 1.
- => Guess can be made an alphabet at a time.
+Although rules and restrictions for the game are listed during execution, get a note of the rules in brief : <br \>
+ => 2 players at a time. <br \>
+ => Player 1 gets to choose a word. <br \>
+ => Player 2 gets to guess the word chosen by 1. <br \>
+ => Guess can be made an alphabet at a time. <br \>
  => Number of guesses to be made can be chosen by 2.
