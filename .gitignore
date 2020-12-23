@@ -1,1 +1,8 @@
+#ignoring database files
+.db3
+.log
+.sqlite
+
+#ignoring executable file
 .exe 
+
