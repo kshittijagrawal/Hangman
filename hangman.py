@@ -1,3 +1,6 @@
+import time
+
+#gets the word from player 1
 def get_word():
     while True:
         word = input("Word Here : ")
@@ -13,6 +16,7 @@ def get_word():
             continue
         return word
 
+#gets the number of guesses from player 2
 def get_guesses():
     while True:
         guesses = input("Number of Guesses Here : ")
@@ -29,6 +33,7 @@ def get_guesses():
             continue
         return guesses
 
+#checks the validity of each character
 def validity():
     while True:
         alpha = input("\n\nEnter alphabet : ")
@@ -43,6 +48,7 @@ def validity():
             continue
         return alpha
 
+#the complete game
 def the_game(word, guesses, blobword):
     words = word
     for guess in range(1, guesses+1):
@@ -64,7 +70,7 @@ def the_game(word, guesses, blobword):
             quit()
     quit()
 
-import time
+# the main driver snippet
 print("\n\n<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>")
 print("\nHELLO and WELCOME to HANGMAN.\n")
 time.sleep(2)
