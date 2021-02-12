@@ -1,6 +1,6 @@
 # Hangman
 A popular game which you might have played during your childhood phase.  
-Also called The Guessing Game, here's a code running **Hangman** in Python with a few modifications to the game.  
+Also called The Guessing Game, here's a code running **Hangman** in Python with a few modifications to the game, although its more of a Guessing Game than Hangman.  
 PS : **This is a "no visual" game and runs without a GUI**.  
 
 
