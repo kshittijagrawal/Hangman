@@ -13,7 +13,7 @@ Although rules and restrictions for the game are listed during execution, get a 
   
 ### A snapshot from the gameplay.
 <img width="400" alt="example02" src="https://user-images.githubusercontent.com/74072261/110207652-f717bc00-7eaa-11eb-80d7-39159dfad3cd.PNG">
-A piece that makes the script a bit more faultless is the fact that it is capable of handling almost all kinds of **bad input** by the user.  
+A piece that makes the script a bit more faultless is the fact that it is capable of handling almost all kinds of bad input by the user. This probably is the reason for the length of the code.
   
 ### Bored yet? 
 <img width="400" alt="example01" src="https://user-images.githubusercontent.com/74072261/110207713-583f8f80-7eab-11eb-980c-5cafa232ece7.PNG">
